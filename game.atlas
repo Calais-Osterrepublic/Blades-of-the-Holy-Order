@@ -5,14 +5,14 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 BuildingIcons/Cato Factoria
   rotate: false
-  xy: 101, 1
+  xy: 201, 1
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Aelonai Order
   rotate: false
-  xy: 201, 1
+  xy: 101, 1
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
