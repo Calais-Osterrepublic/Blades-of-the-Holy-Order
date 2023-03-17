@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Cato Factoria",
+		"replaces": "Workshop",
+		"cost": 120,
+		"uniqueTo": "The Aelonai Order",
+		"production": 2,
+    "specialistSlots": {"Engineer": 1},
+		"faith": 2,
+    "percentStatBonus": {"production": 15},
+		"hurryCostModifier": 50,
+	},
+]
