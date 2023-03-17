@@ -1,0 +1,21 @@
+
+[
+	{
+		"name": "Solic Blades",
+		"unitType": "Sword",
+		"uniqueTo": "The Aelonai Order",
+    "replaces": "Swordsman",
+		"movement": 2,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Gunpowder",
+		"uniques": [
+      "[+120]% Strength <after discovering [Steel]>",
+      "Can build [Land] improvements on tiles <when not at war>",
+      "Can transform to [Musketman] <after discovering [Gunpowder]>",
+      "Can move immediately once bought"
+    ],
+		"attackSound": "metalhit"
+	},
+]
