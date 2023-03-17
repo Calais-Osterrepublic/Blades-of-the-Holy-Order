@@ -25,21 +25,22 @@
 		
 		"uniqueName": "Land of the Fathers",
 		"uniques": [
-      "[+2 Happiness, +2 Culture] [in capital] <when not at war>",
-      "[+1 Production, +1 Faith] [in all non-occupied cities] <when at war>",
-      "Starts with [Piety] adopted"
-    ],
+     			"[+2 Happiness, +2 Culture] [in capital] <when not at war>",
+      			"[+1 Production, +1 Faith] [in all non-occupied cities] <when at war>",
+      			"Starts with [Piety] adopted",
+			"May buy [Solic Blades] units for [75] [Faith] [in all cities] <after discovering [Iron Working]> <before discovering [Gunpowder]>"
+    		],
 		"cities": [
-      "Aelon",
-      "Oclomika",
-      "Atuginian",
-      "Aelonikai",
-      "Vlison",
-      "Prolk's Chapter",
-      "Palo",
-      "Nadeni",
-      "Ouiko",
-      "Arkola"
+		      "Aelon",
+		      "Oclomika",
+		      "Atuginian",
+		      "Aelonikai",
+		      "Vlison",
+		      "Prolk's Chapter",
+		      "Palo",
+		      "Nadeni",
+		      "Ouiko",
+		      "Arkola"
 		],
 	},
 ]
