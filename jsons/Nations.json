@@ -1,0 +1,45 @@
+[
+	{
+		"name": "The Aelonai Order",
+		"leaderName": "Odon Valar",
+		"adjective": ["Ukrainian"],
+		
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "My condolences, but the Order have come to end you. May the best of us win.",
+		"attacked": "Have you come to meet your maker?",
+		"defeated": "Very well. Will your triumph have me in robes before I die?",
+		"introduction": "Hello. Welcome to the Aelonai Order. Have you come to join, or have you come to pray?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you need?",
+		"tradeRequest": "Come, see what I have in store.",
+		
+		"outerColor": [100,0,100],
+		"innerColor": [0,0,255],
+		
+		"favoredReligion": "Buddhism",
+		
+		"uniqueName": "Land of the Fathers",
+		"uniques": [
+      "[+2 Happiness, +2 Culture] [in capital] <when not at war>",
+      "[+1 Production, +1 Faith] [in all non-occupied cities] <when at war>",
+      "Starts with [Piety] adopted"
+    ],
+		"cities": [
+      "Aelon",
+      "Oclomika",
+      "Atuginian",
+      "Aelonikai",
+      "Vlison",
+      "Prolk's Chapter",
+      "Palo",
+      "Nadeni",
+      "Ouiko",
+      "Arkola"
+		],
+	},
+]
