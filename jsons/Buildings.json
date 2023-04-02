@@ -5,9 +5,10 @@
 		"cost": 120,
 		"uniqueTo": "The Aelonai Order",
 		"production": 2,
+                "requiredTech": "Education"
     "specialistSlots": {"Engineer": 1},
 		"faith": 2,
-    "percentStatBonus": {"production": 15},
+    "percentStatBonus": {"production": 15, "culture":15,"science":15},
 		"hurryCostModifier": 50,
 	},
 ]
